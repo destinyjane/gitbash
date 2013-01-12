@@ -112,7 +112,7 @@ $doc->addScript($this->baseurl.'/templates/'.$this->template.'/javascript/md_sty
         <div id="back">
                 <div id="header">
                 
-                <h2>I am  here</h2>
+                <h2>I am  here I am</h2>
                                 <div class="logoheader">
                                         <h1 id="logo">
 
